@@ -1,1 +1,1 @@
-# Eock-Paper-Scissor
+# Rock-Paper-Scissor
